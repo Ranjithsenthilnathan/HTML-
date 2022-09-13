@@ -1,0 +1,93 @@
+<html>
+    <hea<d>
+        <title>HTML</title>
+        <h1>RANJITH S</h1>
+    </head>
+    <body>
+        <p>Learning course | Student | Coder</p>   
+        <p>+91 7904289152</p> 
+        <p><u>ranjith@gmail.com</u></p>
+        <h3>Education</h3>
+        <li>School</li>
+        <ol>
+            <li>
+                GOVT SCHOOL
+            </li>    
+        </ol>
+        <ol>
+            <ul>
+            <li>
+                Located in Salem
+            </li>
+            </ul>
+        </ol> 
+        <li>College</li>
+        <ol>
+            <li>
+                SKCT
+            </li>    
+        </ol>
+        <ol>
+            <ul>
+            <li>
+                Located in CBE
+            </li>
+            </ul>
+        </ol> 
+         <p>IRC Courses</p>
+        <table border=1px width="50%">
+            <tr>
+                <th>Course Name</th>
+                <th>Trainer</th>
+                <th>Hall</th>
+                <th>Company</th>
+            </tr>
+
+            <tr>
+                <td rowspan="2">C++ with DS</td>
+                <td>Dharani</td>
+                <td rowspan="5">Drawing hall</td>
+                <td rowspan="7">iamneo</td>
+            </tr>
+
+            <tr>
+                <td>Koutheesh</td>
+            </tr>
+
+            <tr>
+                <td rowspan="3">Java</td>
+                <td>Dharani</td>
+            </tr>
+            
+            <tr>
+                <td>Koutheesh</td>
+            </tr>
+            
+            <tr>
+                <td>-</td>
+            </tr>
+
+            <tr>
+                <td>SQL</td>
+                <td>Sakthivel</td>
+                <td>IC SF</td>
+            </tr>
+            <tr>
+                <td>Web Tech(basic)</td>
+                <td>Koutheesh</td>
+                <td>IC GF</td>
+            </tr>
+        </table>
+        <h3>
+            Github Link :
+        </h3>
+        <ul>
+            <ul>
+                <a href="https://github.com/Ranjithsenthilnathan"> click here </a>
+            </ul>   
+        </ul>   
+        <h2> Images </h2>
+        <img src="https://img.brainkart.com/menu/2.jpg">
+        
+    </body>
+</html>      
